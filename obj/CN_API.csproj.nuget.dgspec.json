@@ -13,7 +13,6 @@
         "packagesPath": "/Users/patpoolch/.nuget/packages/",
         "outputPath": "/Users/patpoolch/Argento/Test/CN_API/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/patpoolch/.nuget/NuGet/NuGet.Config"
         ],
