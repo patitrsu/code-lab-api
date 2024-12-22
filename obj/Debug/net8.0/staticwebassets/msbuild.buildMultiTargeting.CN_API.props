@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CN_API.props" />
+</Project>
